@@ -8,7 +8,8 @@ Configure htese services to automatically build, test and deploy your applicatio
 Any changes made to you code will trigger the CD pipeline to automatically rebuild, retest and redeploy the new version.
 
 ####
-Objectives
+Objectives 
+###
 Set up your environment by launching Google Cloud Shell, creating a Kubernetes Engine cluster, and configuring your identity and user management scheme.
 
 Download a sample application, create a Git repository then upload it to a Google Cloud Source Repository.
